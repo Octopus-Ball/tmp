@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"uid":{"$numberInt":"1"}},"name":"uid_1"},{"v":{"$numberInt":"2"},"key":{"project_id":{"$numberInt":"1"}},"name":"project_id_1"}],"uuid":"6177f4ec5c4a4f0590435b6efb6e8a1d","collectionName":"interface_cat","type":"collection"}

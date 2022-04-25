@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"uid":{"$numberInt":"1"}},"name":"uid_1"},{"v":{"$numberInt":"2"},"key":{"typeid":{"$numberInt":"1"},"type":{"$numberInt":"1"}},"name":"typeid_1_type_1"}],"uuid":"a679965bc3bb416bb56e8e975da79653","collectionName":"log","type":"collection"}
